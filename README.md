@@ -1,5 +1,5 @@
 ### Hi there 👋  
-## ![Visitor Count](https://profile-counter.glitch.me/git-xuhao/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/git-xuhao/count.svg)
 <!--
 **git-xuhao/git-xuhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-xuhao&layout=compact&theme=tokyonight)
-
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-xuhao&show_icons=true&theme=tokyonight) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-xuhao&show_icons=true&theme=tokyonight) 
